@@ -1,0 +1,3 @@
+sep 6:
+1. how to handle form data? app server? redirect to login page? login automaticaly?
+
